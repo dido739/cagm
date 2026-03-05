@@ -7,7 +7,7 @@
       "short_name": "Post",
       "url": "/post",
       "icons": [
-        { "src": "/icons/icon-192.png", "sizes": "192x192" }
+        { "src": "/static/icons/icon-192.png", "sizes": "192x192", "type": "image/png" }
       ]
     }
   ],
