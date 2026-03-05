@@ -1,6 +1,13 @@
 {
   "name": "CAGM Links",
   "short_name": "Links",
+  "shortcuts": [
+    {
+      "name": "Post",
+      "short_name": "Post",
+      "url": "/post",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    },
   "description": "A simple link aggregator",
   "start_url": "/",
   "display": "standalone",
